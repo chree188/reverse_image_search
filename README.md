@@ -15,9 +15,9 @@ You can run the following script to start the Gradio web UI:
 ```bash
 python3 reverse_image_search.py
 ```
-  
-中文解释文档在<a href="document_zh.pdf">这里</a>。
 
+中文解释文档在<a href="document_zh.pdf">这里</a>。
+https://www.youtube.com/watch?v=ocOBVe5-1-Y
 ---
 
 If you can't run it directly, you may need to do some preparation, including but not limilited to:
